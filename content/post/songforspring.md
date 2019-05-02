@@ -20,15 +20,15 @@ The day, the night, the winter is gone <br>
 My past, my future, my old time is here <br>
 ain't no space to go up <br>
 ain't no space to turn away <br>
-...(guitar solo) <br>
+(guitar solo) <br>
 I  wanna fly <br>
 wanna go back my home <br>
 wanna travel around the world to the death
  </p>
 
-A year ago, I wrote a song called <mark style = "background-color:#e0efda">*Winter Is Gone*</mark> when I was in Nottingham. I still remember that moment. The breeze is on the face, suddenly I got the this singing:
+A year ago, I wrote a song called <mark style = "background-color:#e0efda">*Winter Is Gone*</mark> when I was in Nottingham. I still remember that moment. The breeze is on the face, suddenly I got this singing:
 
-<p style="text-align:center">
+<p style="text-align:left">
 When the winter is gone <br>
 My heart is light <br>
 Birds are flying around, fishes are dancing with my songs <br>
