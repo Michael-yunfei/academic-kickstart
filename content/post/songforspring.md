@@ -11,7 +11,7 @@ I love our great nature. Spring is one of my favourite. I have written so many s
 
 The first one is called <mark style = "background-color:#e0efda">*Your Young Time Is Here*</mark>.  The intro based on guitar for this song is like the preamble of spring, I like it a lot. Here is the lyrics:
 
-<p style="text-align:center">
+<p style="text-align:left">
 The sun, the cloud, the spring is here <br>
 Your smile, your heart, your young time is here <br>
 ain't no space to feel down <br>
