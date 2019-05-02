@@ -6,12 +6,19 @@ tags: ["music", "guitar", "Literature", "spring"]
 ---
 
 <div style="text-align:justify">
+<style>
+p.a {
+  font-family: "Courier New", Monospace;
+}
+</style>
+
+
 
 I love our great nature. Spring is one of my favourite. I have written so many songs on Spring. I would like to make a collection here.
 
 The first one is called <mark style = "background-color:#e0efda">*Your Young Time Is Here*</mark>.  The intro based on guitar for this song is like the preamble of spring, I like it a lot. Here is the lyrics:
 
-<p style="text-align:left">
+<p style="text-align:left" class="a">
 The sun, the cloud, the spring is here <br>
 Your smile, your heart, your young time is here <br>
 ain't no space to feel down <br>
