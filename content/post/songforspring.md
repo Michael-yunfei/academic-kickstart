@@ -26,7 +26,7 @@ wanna go back my home <br>
 wanna travel around the world to the death
  </p>
 
-A year ago, I wrote a song called <mark style = "background-color:#e0efda">*Winter Is Gone*</mark> when I was in Nottingham. I still remember that moment. The breeze is on the face, suddenly I got this singing:
+A year ago, I wrote a song called *Winter Is Gone* when I was in Nottingham. I still remember that moment. The breeze is on the face, suddenly I got this singing:
 
 <p style="text-align:left">
 When the winter is gone <br>
