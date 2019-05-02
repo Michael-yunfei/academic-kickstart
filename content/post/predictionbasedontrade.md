@@ -4,6 +4,7 @@ date: 2019-05-02T22:18:57+02:00
 draft: false
 tags: ["Made in China", "US Presidential Election", "yellow vest"]
 ---
+<div style="text-align:justify">
 
 According to BBC, clashes have broken out between police and protesters as ["yellow vest"](https://www.bbc.com/news/av/48128818/police-fire-tear-gas-as-paris-may-day-protests-turn-violent) demonstrators and labour unions held a traditional May Day rally in Paris.
 
