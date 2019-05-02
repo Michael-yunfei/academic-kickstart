@@ -9,67 +9,39 @@ tags: ["music", "guitar", "Literature", "spring"]
 
 I love our great nature. Spring is one of my favourite. I have written so many songs on Spring. I would like to make a collection here.
 
-The first one is called <mark style = "background-color:#e0efda">Your Young Time Is Here</mark>.  The intro based on guitar for this song is like the preamble of spring, I like it a lot. Here is the lyrics:
+The first one is called <mark style = "background-color:#e0efda">*Your Young Time Is Here*</mark>.  The intro based on guitar for this song is like the preamble of spring, I like it a lot. Here is the lyrics:
 
- <pre>
-
-The sun, the cloud, the spring is here
-
-Your smile, your heart, your young time is here
-
-ain't no space to feel down
-
-ain't no space to fade away
-
-The day, the night, the winter is gone
-
-My past, my future, my old time is here
-
-ain't no space to go up
-
-ain't no space to turn away
-
-...(guitar solo)
-
-I  wanna fly
-
-wanna go back my home
-
+<p style="text-align:center">
+The sun, the cloud, the spring is here <br>
+Your smile, your heart, your young time is here <br>
+ain't no space to feel down <br>
+ain't no space to fade away <br>
+The day, the night, the winter is gone <br>
+My past, my future, my old time is here <br>
+ain't no space to go up <br>
+ain't no space to turn away <br>
+...(guitar solo) <br>
+I  wanna fly <br>
+wanna go back my home <br>
 wanna travel around the world to the death
- </pre>
+ </p>
 
-A year ago, I wrote a song called <mark style = "background-color:#e0efda">Winter Is Gone</mark> when I was in Nottingham. I still remember that moment. The breeze is on the face, suddenly I got the this singing:
+A year ago, I wrote a song called <mark style = "background-color:#e0efda">*Winter Is Gone*</mark> when I was in Nottingham. I still remember that moment. The breeze is on the face, suddenly I got the this singing:
 
-<pre>
-
-When the winter is gone
-
-My heart is light
-
-Birds are flying around, fishes are dancing with my songs
-
-Where have you ever been, my dear friends
-
-Did you really travel a lot
-
-Have you ever really seen the world
-
-Have you ever really listened to people
-
-Who is calling you, call you go back home
-
+<p style="text-align:center">
+When the winter is gone <br>
+My heart is light <br>
+Birds are flying around, fishes are dancing with my songs <br>
+Where have you ever been, my dear friends <br>
+Did you really travel a lot <br>
+Have you ever really seen the world <br>
+Have you ever really listened to people <br>
+Who is calling you, call you go back home <br>
+Who is leaving you, leave you along again <br>
+This is the not last year I feel younger <br>
+Even though I am becoming old <br>
+What are you busy for today <br>
+What are you planning for future <br>
+Who is calling you, call you go back home <br>
 Who is leaving you, leave you along again
-
-This is the not last year I feel younger
-
-Even though I am becoming old
-
-What are you busy for today
-
-What are you planning for future
-
-Who is calling you, call you go back home
-
-Who is leaving you, leave you along again
-
-</pre>
+</p>
