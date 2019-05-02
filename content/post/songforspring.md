@@ -10,7 +10,7 @@ tags: ["music", "guitar", "Literature", "spring"]
 
 I love our great nature. Spring is one of my favourite. I have written so many songs on Spring. I would like to make a collection here.
 
-The first one is called <mark style = "background-color:#e0efda">*Your Young Time Is Here*</mark>.  The intro based on guitar for this song is like the preamble of spring, I like it a lot. Here is the lyrics:
+The first one is called *Your Young Time Is Here*.  The intro based on guitar for this song is like the preamble of spring, I like it a lot. Here is the lyrics:
 
 <p style="text-align:left; font-family:Courier New">
 The sun, the cloud, the spring is here <br>
@@ -29,7 +29,7 @@ wanna travel around the world to the death
 
 A year ago, I wrote a song called *Winter Is Gone* when I was in Nottingham. I still remember that moment. The breeze is on the face, suddenly I got this singing:
 
-<p style="text-align:left">
+<p style="text-align:left; font-family:Courier New">
 When the winter is gone <br>
 My heart is light <br>
 Birds are flying around, fishes are dancing with my songs <br>
