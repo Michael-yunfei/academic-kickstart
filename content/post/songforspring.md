@@ -8,9 +8,9 @@ tags: ["music", "guitar", "Literature", "spring"]
 <div style="text-align:justify">
 
 
-I love our great nature. Spring is one of my favourite. I have written so many songs on Spring. I would like to make a collection here.
+I love our great nature. Spring is one of my favourite. I have written several songs on Spring. I would like to make a collection here.
 
-The first one is called *Your Young Time Is Here*.  The intro based on guitar for this song is like the preamble of spring, I like it a lot. Here is the lyrics:
+The first one is called *Your Young Time Is Here*.  The intro based on guitar for this song is like the preamble of spring. Here is the lyrics:
 
 <p style="text-align:left; font-family:Courier New">
 The sun, the cloud, the spring is here <br>
@@ -22,7 +22,7 @@ My past, my future, my old time is here <br>
 ain't no space to go up <br>
 ain't no space to turn away <br>
 (guitar solo) <br>
-I  wanna fly <br>
+I  wanna fly ... <br>
 wanna go back my home <br>
 wanna travel around the world to the death
  </p>
