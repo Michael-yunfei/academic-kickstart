@@ -31,8 +31,13 @@ $$y = 2x^2 - 3x + 4$$
 
 Now, let's differentiate the **cost function** in terms of parameters or coefficients $\theta$ by assuming the simplest case: only one training example $(x, y)$:
 $$\begin{align*}
-\frac{\partial}{\partial \theta_j} & = \frac{\partial}{\partial \theta_j} \frac{1}{2} [f_{\theta}(x) - y]^2 \\
-& = 2 \cdot \frac{1}{2} [f_{\theta}(x) - y] \frac{\partial}{\partial \theta_j}[f_{\theta}(x) - y] \\
-& = [f_{\theta}(x) - y] \cdot \frac{\partial}{\partial \theta_j} \big ( \sum_{i=0}^n \theta_i x_i \big) \\
-& = [f_{\theta}(x) - y] x_j
+\frac{\partial}{\partial \theta\_j} & = \frac{\partial}{\partial \theta\_j} \frac{1}{2} [f\_{\theta}(x) - y]^2 \\
+& = 2 \cdot \frac{1}{2} [f\_{\theta}(x) - y] \frac{\partial}{\partial \theta\_j}[f\_{\theta}(x) - y] \\
+& = [f\_{\theta}(x) - y] \cdot \frac{\partial}{\partial \theta\_j} \big ( \sum\_{i=0}^n \theta\_i x\_i \big) \\
+& = [f\_{\theta}(x) - y] x\_j
 \end{align*}$$
+
+Put the above result, we can have the update rule:
+$$\theta\_j = \theta_j + \alpha [y^i - f\_\theta(x^i)] x\_j^i$$
+
+This rule is called **LMS** update rule, where $\alpha$ is called the **learning rate**. This rule is also knowns as **Widrow-Hofff** learning rule. 
