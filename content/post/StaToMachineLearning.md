@@ -21,6 +21,7 @@ To get the gist of machine learning, we need have the broad view. As a subject o
 
 To optimize is to search the algorithms for satisfying the Benchmark. In machine learning, the most common one is the **cost function** (or square error). Although we will never know the true data generate process, we can propose an function $f(x)$ (it can be linear or nonlinear) to represent it. Whether function $f(x)$ is good enough depends on how it can minimize the cost function:
 $$J(\theta) = \frac{1}{2} \sum_{i=1}^m [f_{\theta}(x^i) - y^i]^2$$
+
 where $y$ is the true value.
 
 This function looks nice as even hight school student can have some sense of knowing how to solve it. No matter this cost function is in matrix format or scalar format, it is just a quadratic function. I guess any reader who ends up here knows how to find the minimum of functions like this one:
@@ -29,9 +30,9 @@ $$y = 2x^2 - 3x + 4$$
 > Yes, it's all about differentiation
 
 Now, let's differentiate the **cost function** in terms of parameters or coefficients $\theta$ by assuming the simplest case: only one training example $(x, y)$:
-\begin{align*}
+$$\begin{align*}
 \frac{\partial}{\partial \theta_j} & = \frac{\partial}{\partial \theta_j} \frac{1}{2} [f_{\theta}(x) - y]^2 \\
 & = 2 \cdot \frac{1}{2} [f_{\theta}(x) - y] \frac{\partial}{\partial \theta_j}[f_{\theta}(x) - y] \\
 & = [f_{\theta}(x) - y] \cdot \frac{\partial}{\partial \theta_j} \big ( \sum_{i=0}^n \theta_i x_i \big) \\
 & = [f_{\theta}(x) - y] x_j
-\end{align*}
+\end{align*}$$
