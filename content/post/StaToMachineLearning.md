@@ -31,12 +31,13 @@ $$y = 2x^2 - 3x + 4$$
 > Yes, it's all about differentiation
 
 Now, let's differentiate the **cost function** in terms of parameters or coefficients $\theta$ by assuming the simplest case: only one training example $(x, y)$:
-$\begin{aligned}
+
+$$\begin{aligned}
 \frac{\partial}{\partial \theta\_j} & = \frac{\partial}{\partial \theta\_j} \frac{1}{2} [f\_{\theta}(x) - y]^2 \\\\\\
 & = 2 \cdot \frac{1}{2} [f\_{\theta}(x) - y] \frac{\partial}{\partial \theta\_j}[f\_{\theta}(x) - y] \\\\\\
 & = [f\_{\theta}(x) - y] \cdot \frac{\partial}{\partial \theta\_j} \big ( \sum\_{i=0}^n \theta\_i x\_i \big) \\\\\\
 & = [f\_{\theta}(x) - y] x\_j
-\end{aligned}$
+\end{aligned}$$
 
 Put the above result, we can have the update rule:
 $$\theta\_j = \theta\_j + \alpha [y^i - f\_{\theta}(x^i)] x\_j^i$$
