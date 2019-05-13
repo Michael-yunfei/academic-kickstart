@@ -3,6 +3,7 @@ title: "Break into Machine Learning for Economic and Statistical Students"
 date: 2019-05-13T22:35:53+02:00
 draft: false
 tags: ["Machine Learning", "Economics", "Statistics", "Python"]
+mathjax : true
 ---
 
 <div style="text-align:justify">
