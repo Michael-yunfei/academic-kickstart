@@ -42,12 +42,11 @@ $$\begin{aligned}
 Put the above result, we can have the update rule:
 $$\theta\_j = \theta\_j + \alpha [y^i - f\_{\theta}(x^i)] x\_j^i$$
 
-This rule is called **LMS** update rule, where $\alpha$ is called the **learning rate**. This rule is also knowns as **Widrow-Hofff** learning rule.
-
-
-## Intuition Behind Math
+This rule is called **LMS** update rule, where $\alpha$ is called the **learning rate**. This rule is also knowns as **Widrow-Hofff** learning rule. What's the intuition behind this learning rule? The answer is: 
 
 > All about changing rate (or simultaneous convergence)
+
+## Intuition Behind Math
 
 To understand the learning rule, let's check a very common math problem. Let's try to find the minimum value of a polynomial function:
 $$f(x) = x^4 - 3x^3 + 2$$
