@@ -20,7 +20,7 @@ To get the gist of machine learning, we need have the broad view. As a subject o
 ## Set the Benchmark
 
 To optimize is to search the algorithms for satisfying the Benchmark. In machine learning, the most common one is the **cost function** (or square error). Although we will never know the true data generate process, we can propose an function $f(x)$ (it can be linear or nonlinear) to represent it. Whether function $f(x)$ is good enough depends on how it can minimize the cost function:
-$$J(\theta) = \frac{1}{2} \sum_{i=1}^m [f_{\theta}(x^i) - y^i]^2$$
+$$J(\theta) = \frac{1}{2} \sum\_{i=1}^m [f\_{\theta}(x^i) - y^i]^2$$
 
 where $y$ is the true value.
 
