@@ -6,35 +6,6 @@ tags: ["Machine Learning", "Economics", "Statistics", "Python"]
 mathjax : true
 ---
 
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-  MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$']],
-    processEscapes: true,
-    processEnvironments: true,
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-    TeX: { equationNumbers: { autoNumber: "AMS" },
-         extensions: ["AMSmath.js", "AMSsymbols.js"] }
-  }
-  });
-  MathJax.Hub.Queue(function() {
-    // Fix <code> tags after MathJax finishes running. This is a
-    // hack to overcome a shortcoming of Markdown. Discussion at
-    // https://github.com/mojombo/jekyll/issues/199
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += ' has-jax';
-    }
-  });
-
-  MathJax.Hub.Config({
-  // Autonumbering by mathjax
-  TeX: { equationNumbers: { autoNumber: "AMS" } }
-  });
-</script>
-
 <div style="text-align:justify">
 
 With the rise of artificial intelligence, knowing how to programme is quite essential for most students how are doing science degree. We are seeing that more and more students from economic department are enrolled in the Machine Learning course world widely. Meanwhile, trained future statisticians are exploring to become a professional data scientist. However, both economic students and statistic students might have very mixed feeling on Machine Learning Modules. On one hand, you might feel the contents from machine learning are very familiar to you. For instance, the logistic regression for classification has been covered and practiced from both econometric and statistic classes. However, on the other hand, you might be lost temporarily when you heard about gradient descent for risk optimization.
@@ -61,9 +32,9 @@ $$y = 2x^2 - 3x + 4$$
 
 Now, let's differentiate the **cost function** in terms of parameters or coefficients $\theta$ by assuming the simplest case: only one training example $(x, y)$:
 $\begin{aligned}
-\frac{\partial}{\partial \theta\_j} & = \frac{\partial}{\partial \theta\_j} \frac{1}{2} [f\_{\theta}(x) - y]^2 \\
-& = 2 \cdot \frac{1}{2} [f\_{\theta}(x) - y] \frac{\partial}{\partial \theta\_j}[f\_{\theta}(x) - y] \\
-& = [f\_{\theta}(x) - y] \cdot \frac{\partial}{\partial \theta\_j} \big ( \sum\_{i=0}^n \theta\_i x\_i \big) \\
+\frac{\partial}{\partial \theta\_j} & = \frac{\partial}{\partial \theta\_j} \frac{1}{2} [f\_{\theta}(x) - y]^2 \\\\\\
+& = 2 \cdot \frac{1}{2} [f\_{\theta}(x) - y] \frac{\partial}{\partial \theta\_j}[f\_{\theta}(x) - y] \\\\\\
+& = [f\_{\theta}(x) - y] \cdot \frac{\partial}{\partial \theta\_j} \big ( \sum\_{i=0}^n \theta\_i x\_i \big) \\\\\\
 & = [f\_{\theta}(x) - y] x\_j
 \end{aligned}$
 
