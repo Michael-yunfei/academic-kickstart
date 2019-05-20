@@ -5,6 +5,7 @@ draft: false
 tags: ["Network", "Peer Effects", "Structural Estimation", "R", "Data"]
 header:
   image: "scalefreeNetwork.jpg"
+thumbnail: "scalefreeNetwork.jpg"
 ---
 
 <div style="text-align:justify">
