@@ -3,9 +3,7 @@ title: "Structural Identification and Estimation of Peer Effects Using Network D
 date: 2019-05-20T23:19:40+02:00
 draft: false
 tags: ["Network", "Peer Effects", "Structural Estimation", "R", "Data"]
-header:
-  image: "scalefreeNetwork.jpg"
-thumbnail: "scalefreeNetwork.jpg"
+thumbnailImage: "scalefreeNetwork.jpg"
 ---
 
 <div style="text-align:justify">
