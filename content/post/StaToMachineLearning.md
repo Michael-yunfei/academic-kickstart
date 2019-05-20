@@ -1,7 +1,7 @@
 ---
 title: "Break into Machine Learning for Economic and Statistical Students"
 date: 2019-05-13T22:35:53+02:00
-draft: false
+draft: true
 tags: ["Machine Learning", "Economics", "Statistics", "Python"]
 mathjax : true
 ---
@@ -42,7 +42,7 @@ $$\begin{aligned}
 Put the above result, we can have the update rule:
 $$\theta\_j = \theta\_j + \alpha [y^i - f\_{\theta}(x^i)] x\_j^i$$
 
-This rule is called **LMS** update rule, where $\alpha$ is called the **learning rate**. This rule is also knowns as **Widrow-Hofff** learning rule. What's the intuition behind this learning rule? The answer is: 
+This rule is called **LMS** update rule, where $\alpha$ is called the **learning rate**. This rule is also knowns as **Widrow-Hofff** learning rule. What's the intuition behind this learning rule? The answer is:
 
 > All about changing rate (or simultaneous convergence)
 
