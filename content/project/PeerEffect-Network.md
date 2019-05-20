@@ -4,7 +4,7 @@ date: 2019-05-20T23:19:40+02:00
 draft: false
 tags: ["Network", "Peer Effects", "Structural Estimation", "R", "Data"]
 [header]
-image = "static/img/scalefreeNetwork.png"
+image: "static/img/scalefreeNetwork.png"
 ---
 
 <div style="text-align:justify">
