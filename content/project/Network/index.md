@@ -48,3 +48,5 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 The famous motto - Correlation does not imply causality - keeps haunting economists, especially when it comes to the identification and estimation of peer effects in social networks. On one hand, similarities (either on micro or macro-level) begets friendship. On the other hand, the interaction or formation of friendship within social network also affect behaviors of agents. A perfect way to identify and estimate the peer effects is to run a random experiment that can isolate the peer effects from other factors. However, this is not feasible in the real world.
 
 With the dataset called *Panel Study of Cologne Gymnasium Students (KGP)*, I try to model the identification and estimation of peer effects with structural examination of network formation.
+
+For the full paper and coding to replicate the paper, you can visit my [Github Network Repository](https://github.com/Michael-yunfei/Network_Analysis).
