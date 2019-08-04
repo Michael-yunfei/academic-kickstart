@@ -42,11 +42,6 @@ user_groups = ["Researchers", "Visitors"]
   course = "MSc in Economics, 2019"
   institution = "University of Nottingham"
 
-<!-- [[education.courses]]
-  course = "Graduate Diploma in Economics"
-  institution = "University of Nottingham"
-  year = 2017 -->
-
 [[education.courses]]
   course = "MA in Philosophy"
   institution = "The Chinese University of HongKong"
