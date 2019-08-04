@@ -1,7 +1,7 @@
 ---
 title: "How China Predict Major Political Events"
 date: 2019-05-02T22:18:57+02:00
-draft: false
+draft: true
 tags: ["Made in China", "US Presidential Election", "yellow vest"]
 ---
 <div style="text-align:justify">

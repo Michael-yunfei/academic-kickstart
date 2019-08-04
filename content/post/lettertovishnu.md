@@ -1,7 +1,7 @@
 ---
 title: "An Open Letter"
 date: 2019-04-28T11:38:49+02:00
-draft: false
+draft: true
 tags: ["Life", "Letter", "Literature", "Reflection"]
 ---
 <div style="text-align:justify">
