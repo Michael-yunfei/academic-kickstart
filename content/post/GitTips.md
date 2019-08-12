@@ -42,14 +42,14 @@ git push
 
 Normally, one cannot push a single filer larger than 100 MB to github. Suppose you did not this at the beginning, and you did the `push` from the last step, and git returned error like this
 ```python
-# remote: Resolving deltas: 100% (3/3), completed with 2 local objects.
-# remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
-# remote: error: Trace: 72300163a30ce81dd70ae95f036813e0
-# remote: error: See http://git.io/iEPt8g for more information.
-# remote: error: File Project/kin_dataset.csv is 384.99 MB; this exceeds GitHub's file size limit of 100.00 MB
-# To https://github.com/Michael-yunfei/MachineLearning.git
-#  ! [remote rejected]   master -> master (pre-receive hook declined)
-# error: failed to push some refs to 'https://github.com/Michael-yunfei/MachineLearning.git'
+remote: Resolving deltas: 100% (3/3), completed with 2 local objects.
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+remote: error: Trace: 72300163a30ce81dd70ae95f036813e0
+remote: error: See http://git.io/iEPt8g for more information.
+remote: error: File Project/kin_dataset.csv is 384.99 MB; this exceeds GitHub's file size limit of 100.00 MB
+To https://github.com/Michael-yunfei/MachineLearning.git
+ ! [remote rejected]   master -> master (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/Michael-yunfei/MachineLearning.git'
 ```
 
 You realized that you could not push (or update) local files to github. To solve this problem, you can try:
