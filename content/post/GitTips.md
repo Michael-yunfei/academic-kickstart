@@ -61,11 +61,9 @@ git status  # check the status first
 This will tell you what you have done, and how many times you have done commit. For instance, if I have done 2 commits, and the following will be returned after `git status`:
 
 ```python
-# On branch master
-# Your branch is ahead of 'origin/master' by 2 commits.
-#   (use "git push" to publish your local commits)
-# ...
-# ..
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
 ```
 
 Now, we need reset the commit by typing:
@@ -78,13 +76,13 @@ git reset HEAD~2  # if you did 3 commits, change 2 to 3
 After this, you can check the status again by typing `git status`, then the follows will pop up:
 
 ```python
-# On branch master
-# Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
 # ....
 # in the middle, it gives all the changes or created files you have done
 # from the last git action.
 # ....
-# no changes added to commit
+no changes added to commit
 ```
 
 Now, finally you can push again.
