@@ -13,7 +13,7 @@ role = "A Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Konstanz", url = "https://www.uni-konstanz.de/en/" }, { name = "University of Nottingham", url = "https://www.nottingham.ac.uk" } ]
+organizations = [ { name = "University College Dublin", url = "http://www.ucd.ie/mathstat/" }, { name = "University of Nottingham", url = "https://www.nottingham.ac.uk" } ]
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "My research interests include Game Theory, Macroeconomics, Applied Mathematical  Programming."
@@ -35,12 +35,14 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MSc in Economics, 2019"
-  institution = "University of Konstanz"
+  course = "Graduate Diploma in Mathematics Studies"
+  institution = "University College Dublin"
+  year = 2020
 
 [[education.courses]]
-  course = "MSc in Economics, 2019"
-  institution = "University of Nottingham"
+  course = "MSc in Economics (Dual Degree)"
+  institution = "University of Nottingham and Konstanz"
+  year = 2019
 
 [[education.courses]]
   course = "MA in Philosophy"
