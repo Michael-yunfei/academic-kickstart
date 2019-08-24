@@ -35,7 +35,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Graduate Diploma in Mathematics Studies"
+  course = "Graduate Diploma in Mathematical Studies"
   institution = "University College Dublin"
   year = 2020
 
@@ -46,7 +46,7 @@ user_groups = ["Researchers", "Visitors"]
 
 [[education.courses]]
   course = "MA in Philosophy"
-  institution = "The Chinese University of HongKong"
+  institution = "The Chinese University of Hong Kong"
   year = 2013
 
 # Social/Academic Networking
@@ -84,6 +84,6 @@ user_groups = ["Researchers", "Visitors"]
 #
 +++
 
-I am a current student who will finish my MSc Economic degree from University of Nottingham and University of Konstanz in August, 2019. From September, I will go to University College Dublin to pursue my degree in Mathematics.My main research interests lie in Game Theory, Macroeconomics, Applied Mathematics.
+Currently, I am a student who is studying mathematics in UCD. I am expected to graduate with the Higher Diploma degree in September of 2020. After the mathematical studies, I will apply the Phd in economics, which my main research interests lie in game theory, risk shocks in macroeconomics, and network effects in Big Data era.
 
-You can find my [cv here](https://drive.google.com/open?id=1DjOBgBc5kT2h_gnijgHN-ZBDGJvdKnW8) (Michael is my English name). Hope you will enjoy visiting this site.
+You can find my [cv here](https://drive.google.com/open?id=1g-rm7YdzcSBivbNirdT1aIZecCMFrl8I) (Michael is my English name). Hope you will enjoy visiting this site.
