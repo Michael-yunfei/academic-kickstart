@@ -13,16 +13,22 @@ To fulfill myself, I came to University College Dublin to study mathematics in S
 
 For almost anything I do, I don't like the feeling of being wandering around. It's always good to be aware of your situation and process. That's why I found the following roadmaps from MIT. It gives you the direction of studying mathematics. For instance, say you want to focus on probability and measure theory, what kind of subjects you should study and then build up your required skills. Each roadmap consists of three tiers:
 
-* __Tier 1__: Introductory courses with few prerequisites.
-* __Tier 2__: More advanced classes for students who have mastered several tier-1 classes.
-* __Tier 3__: The most advanced classes, often beginning graduate-level subjects, for students who have mastered many tier-1 and tier-2 classes.
+* __Tier1__: Introductory courses with few prerequisites.
+* __Tier2__: More advanced classes for students who have mastered several tier-1 classes.
+* __Tier3__: The most advanced classes, often beginning graduate-level subjects, for students who have mastered many tier-1 and tier-2 classes.
 
 MIT lists roadmaps based on two categories: pure mathematics and applied mathematics. I will present one of the roadmaps I am interested on rather than listing all of them. You check the full version of this roadmap through this [link](http://math.mit.edu/academics/undergrad/roadmaps.php).
 
-Analysis and Geometry
+Analysis and Geometry:
 
-* __Tier 1__: Real Analysis; Linear Algebra; Algebra
-* __Tier 2__: Complex Analysis; Fourier Analysis; Functional Analysis; Geometry; Differential Equations; etc.
-* __Tier 3__: Measure Theory and Analysis; Differential Analsysi; etc.
+* Tier 1: Real Analysis; Linear Algebra; Algebra
+* Tier 2: Complex Analysis; Fourier Analysis; Functional Analysis; Geometry; Differential Equations; etc.
+* Tier 3: Measure Theory and Analysis; Differential Analysis; etc.
 
-## Math Roadmaps for Economics and Finance Students
+## Math Roadmaps for Economics Students
+
+As a student who wants to apply PHD of economics and also is passionate about math, personally I want to accomplish the following missions within the year of studying mathematics in UCD:
+
+* Gain knowledge and skills up to the level of being prepared to be a student of graduate school in mathematics.
+
+* Have the solid training and deep understanding in the core areas of mathematics: analysis, algebra, probability and statistics. 
