@@ -5,6 +5,8 @@ draft: false
 tags: ["Mathematics", "Roadmap", "Tips"]
 ---
 
+<div style="text-align:justify">
+
 To fulfill myself, I came to University College Dublin to study mathematics in September. Once the new semester started, I just dived into it. The more I learned from professors in mathematics department, the eager I am for more advanced knowledge. On one hand, this makes me enthusiastic and energetic on studying mathematics. On the other hand, it also makes become anxious on learning process and future achievements as it looks like the situation that life time is limited but knowledge there is infinite. What should I do then? I believe that a conceivable road map is essential.
 
 ## Math Major Roadmaps from MIT
@@ -17,7 +19,7 @@ For almost anything I do, I don't like the feeling of being wandering around. It
 
 MIT lists roadmaps based on two categories: pure mathematics and applied mathematics. I will present one of the roadmaps I am interested on rather than listing all of them. You check the full version of this roadmap through this [link](http://math.mit.edu/academics/undergrad/roadmaps.php).
 
-### Analysis and Geometry
+Analysis and Geometry
 
 * __Tier 1__: Real Analysis; Linear Algebra; Algebra
 * __Tier 2__: Complex Analysis; Fourier Analysis; Functional Analysis; Geometry; Differential Equations; etc.
