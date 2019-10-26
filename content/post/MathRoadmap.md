@@ -35,14 +35,4 @@ As a student who wants to apply PHD of economics and also is passionate about ma
 * Have the solid training and deep understanding in the core areas of mathematics: analysis, algebra, probability and statistics.
 
 According to the structure of major I enrolled right now, I made this target timeline:
-
-```mermaid
-gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-```
+{{< figure library="1" src="timeline.png" title="Learning Timeline" >}}
