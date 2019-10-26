@@ -3,6 +3,7 @@ title: "Road Map for Studying Mathematics"
 date: 2019-10-26T21:45:39+01:00
 draft: false
 tags: ["Mathematics", "Roadmap", "Tips"]
+diagram: true
 ---
 
 <div style="text-align:justify">
@@ -31,4 +32,17 @@ As a student who wants to apply PHD of economics and also is passionate about ma
 
 * Gain knowledge and skills up to the level of being prepared to be a student of graduate school in mathematics.
 
-* Have the solid training and deep understanding in the core areas of mathematics: analysis, algebra, probability and statistics. 
+* Have the solid training and deep understanding in the core areas of mathematics: analysis, algebra, probability and statistics.
+
+According to the structure of major I enrolled right now, I made this target timeline:
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  section Section
+  A task           :a1, 2014-01-01, 30d
+  Another task     :after a1  , 20d
+  section Another
+  Task in sec      :2014-01-12  , 12d
+  another task      : 24d
+```
