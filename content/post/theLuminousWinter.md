@@ -8,6 +8,7 @@ tags: ["Poetry", "Literature"]
 
 <p style="text-align:left">
 The street is hustle and bustle<br>
+<br>
 You passing through the crowd<br>
 Where the scarfs are dancing with the wind, my view is broad<br>
 Where the colours are falling, your breath is crystal<br>
