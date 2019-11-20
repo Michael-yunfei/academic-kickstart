@@ -2,7 +2,11 @@
 title: "The Luminous Winter"
 date: 2019-11-20T18:00:22Z
 draft: false
+<<<<<<< HEAD
 tags: ["Poetry", "Literature"]
+=======
+tags: ["Poetry"]
+>>>>>>> 4a278c7d6b8364bbb7591f8b4d64c5e8aeb19d5b
 ---
 
 
