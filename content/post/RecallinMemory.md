@@ -8,7 +8,7 @@ tags: ["Poetry", "Literature"]
 <p style="text-align:left">
 Recalling something in memory<br>
 <br>
-is like measuring the time by scrolling it up,<br>
+is like measuring the time by scrolling it up<br>
 <br>
 Your nerve has been warmed up<br>
 <br>
@@ -22,7 +22,7 @@ are waving lights in that disappeared world<br>
 <br>
 Suddenly, you feel you are growing up<br>
 <br>
-but that consciousness is so blur and not fixed,<br>
+but that consciousness is so blur and not fixed<br>
 <br>
 which pulls you back to the dimension of time<br>
 <br>
@@ -42,7 +42,7 @@ To not recall in memory is to let it die in the time<br>
 <br>
 Here and there, now and then<br>
 <br>
-Will be myself also lost,<br>
+Will be myself also lost<br>
 <br>
 when I stop recalling in the time<br>
 </p>
