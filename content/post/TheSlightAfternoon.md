@@ -1,5 +1,5 @@
 ---
-title: "The Slight Afternoon"
+title: "The Silent Afternoon"
 date: 2019-11-20T18:39:16Z
 draft: false
 tags: ["Poetry", "Literature"]
