@@ -10,7 +10,7 @@ I was young when I left home<br>
 <br>
 thought I would find a way to become a man<br>
 <br>
-one day my friends turned back to me<br>
+one day my friends turned back on me<br>
 <br>
 as we all fell in love with the same girl<br>
 <br>
@@ -27,7 +27,7 @@ I got the feeling of freedom and being empty<br>
 <br>
 Singing the song by bob dylan could not save me<br>
 <br>
-The book of Nietzsche are buried in the dust<br>
+The books of Nietzsche are buried in the dust<br>
 <br>
 Lord you bring me to this world<br>
 <br>
