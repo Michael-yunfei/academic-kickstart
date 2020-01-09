@@ -1,5 +1,5 @@
 ---
-title: "Showmethewayout"
+title: "Show me the way out"
 date: 2020-01-09T15:28:27Z
 draft: false
 tags: ["Poetry", "Literature", "Music"]
