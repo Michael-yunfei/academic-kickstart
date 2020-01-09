@@ -42,7 +42,7 @@ I know it's hard to make someone to feel my spirit<br>
 <br>
 I could not go back home without any fame in my name<br>
 <br>
-But how could I sell my soul in the market without trade-off<br>
+But how could I sell my soul in the market without any trade-off<br>
 <br>
 Lord you set me up by losing my mind<br>
 <br>
@@ -55,11 +55,11 @@ The future ahead is unsure and real<br>
 <br>
 I have been working hard to prepare the coming of that day<br>
 <br>
-they say you need money for the insurance of end<br>
+they say you need money for the insurance of the end<br>
 <br>
 That's how the pension and strike works those days<br>
 <br>
-Lord you will never let it go no matter what we do<br>
+Lord you will never let it go no matter what I do<br>
 <br>
 Hallelujah, show me the way out<br>
 <br>
