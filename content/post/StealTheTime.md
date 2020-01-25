@@ -10,13 +10,19 @@ He who likes to steal the time from the light<br>
 <br>
 by scripting his mind and soul on the paper<br>
 <br>
-staring the shadow of pen, the sphere of space, entrenching  in the echoing silence<br>
+staring the shadow of pen, the sphere of space<br>
 <br>
-His body is twisting and lying in the bed<br>
+entrenching  in the echoing silence<br>
 <br>
-Pulled out all his strength, he finished the last line, and fell asleep again<br>
+twisting and lying in the bed<br>
 <br>
-He woke up, touched the time he stole by reading this poem in mind<br>
+Pulled out all his strength<br>
+<br>
+he finished the last line, and fell asleep again<br>
+<br>
+Naturally, he woke up<br>
+<br>
+touched the time he stole by reading this poem in mind<br>
 <br>
 All the dreams and reflections are going on<br>
 <br>
