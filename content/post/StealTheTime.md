@@ -16,8 +16,6 @@ His body is twisting and lying in the bed<br>
 <br>
 Pulled out all his strength, he finished the last line, and fell asleep again<br>
 <br>
-...<br>
-<br>
 He woke up, touched the time he stole by reading this poem in mind<br>
 <br>
 All the dreams and reflections are going on<br>
@@ -28,11 +26,11 @@ The raven on the roof is standing<br>
 <br>
 Soon, it flees<br>
 <br>
-I turned my head to the right<br>
+He turned my head to the right<br>
 <br>
 The light reveals and reflects on the wall<br>
 <br>
-There is a day ahead of me<br>
+There is a day ahead of him<br>
 <br>
 There is one life ahead of being<br>
 <br>
