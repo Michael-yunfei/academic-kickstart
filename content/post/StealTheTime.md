@@ -14,7 +14,7 @@ staring the shadow of pen, the sphere of space, entrenching  in the echoing sile
 <br>
 His body is twisting and lying in the bed<br>
 <br>
-Pulled out all his strength, he finished the last time, and fell asleep again<br>
+Pulled out all his strength, he finished the last line, and fell asleep again<br>
 <br>
 ...<br>
 <br>
