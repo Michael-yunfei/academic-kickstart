@@ -39,16 +39,4 @@ But I still hold my breath<br>
 for the time lost in the waste land <br>
 <br>
 for the one who used to kiss my cheek with the aura of Zeus<br>
-<br>
-I am waiting<br>
-<br>
-I am here<br>
-<br>
-I am longing<br>
-<br>
-and I am ready<br>
-<br>
-for the future<br>
-<br>
-and for your love<br>
 </p>
