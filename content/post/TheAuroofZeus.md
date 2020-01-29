@@ -24,7 +24,9 @@ I am not even bother to wear that armor<br>
 <br>
 But still might be too selfish for being pessimistic<br>
 <br>
-The pendulum in my wonderland is sining<br>
+So<br>
+<br>
+The pendulum in my wonderland is singing<br>
 <br>
 The penguin in Arctic is swinging<br>
 <br>
@@ -32,7 +34,21 @@ LGBTs are busy for their flag-raising<br>
 <br>
 The world is there infinitely for the free-will<br>
 <br>
-But I still hold my breath for the time lost in the waste land <br>
+But I still hold my breath<br>
 <br>
-And for the one who used to kiss my cheek with the aura of Zeus<br>
+for the time lost in the waste land <br>
+<br>
+for the one who used to kiss my cheek with the aura of Zeus<br>
+<br>
+I am waiting<br>
+<br>
+I am here<br>
+<br>
+I am longing<br>
+<br>
+and I am ready<br>
+<br>
+for the future<br>
+<br>
+and for your love<br>
 </p>
