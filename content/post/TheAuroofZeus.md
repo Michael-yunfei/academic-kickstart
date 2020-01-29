@@ -28,7 +28,7 @@ So<br>
 <br>
 The pendulum in my wonderland is singing<br>
 <br>
-The penguin in Arctic is swinging<br>
+The penguin in Antarctic is swinging<br>
 <br>
 LGBTs are busy for their flag-raising<br>
 <br>
