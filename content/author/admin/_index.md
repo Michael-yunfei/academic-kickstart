@@ -23,10 +23,10 @@ email = "michael.yunfei@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Game Theory",
-  "Macroeconomics",
-  "Statistical Learning",
-  "Applied Mathematics"
+  "Mathematics",
+  "Music",
+  "Literature",
+  "History"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -84,6 +84,6 @@ user_groups = ["Researchers", "Visitors"]
 #
 +++
 
-Currently, I am a student who is studying mathematics in UCD. I am expected to graduate with the Higher Diploma degree in September of 2020. After the mathematical studies, I will apply the Phd in economics, which my main research interests lie in game theory, risk shocks in macroeconomics, and network effects in Big Data era.
+Currently, I am a student who is studying mathematics in UCD. I am expected to graduate with the Higher Diploma degree in September of 2020. After the mathematical studies, I will throw myself into the market. Except for living through be employed, I would like to read more.
 
 You can find my [cv here](https://drive.google.com/open?id=1g-rm7YdzcSBivbNirdT1aIZecCMFrl8I) (Michael is my English name). Hope you will enjoy visiting this site.
