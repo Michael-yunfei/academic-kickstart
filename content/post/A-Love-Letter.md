@@ -16,7 +16,7 @@ Composed with breath, thinking of your grace<br>
 <br>
 I sat on the floor by the window<br>
 <br>
-meditating on the first born<br>
+meditating on the firstborn<br>
 <br>
 Yes, the old God has gone, no one believes its call<br>
 <br>
