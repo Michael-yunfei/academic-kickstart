@@ -2,6 +2,7 @@
 title: "A Love Letter"
 date: 2020-02-22T22:00:40Z
 draft: false
+tags: ["Poetry", "Literature"]
 ---
 
 <p style="text-align:left">
@@ -49,11 +50,11 @@ Do I care the ending like I care my own payment<br>
 <br>
 Do I fear the future like I fear the loss of everything<br>
 <br>
-No, I was the first born of her carefree being<br>
+No, I was the firstborn of her carefree being<br>
 <br>
 Yes, I was the last one who can seal her endless will<br>
 <br>
 Yes or No, I would just bow<br>
 <br>
-and fight as I was the firstborn without anything in my palm<br>
+And fight as I was the firstborn without anything in my palm<br>
 </p>
