@@ -66,5 +66,5 @@ When the money returned from the bond<br>
 <br>
 cannot even buy you a bone<br>
 <br>
-Our great nature is on her own<br>
+Our great nature again, is on her own<br>
 <br>
