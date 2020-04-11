@@ -12,7 +12,7 @@ Yes, it is true that old god has gone<br>
 No one believes his call<br>
 They sell his statue<br>
 for buying the new virtue<br>
-Our grate nature has been left alone<br>
+Our great nature has been left alone<br>
 <br>
 No, I cannot deny that I love her the most<br>
 But she is not near<br>
