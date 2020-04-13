@@ -10,7 +10,7 @@ His journey normally starts from autumn<br>
 a season of harvest<br>
 Romance and affection arise from bottom<br>
 a layer of target<br>
-He met her in a winding path full of colourful leaves<br>
+He meets her in a winding path full of colourful leaves<br>
 <br>
 Winter comes with the warmness of love<br>
 when the snow make the world quiet<br>
