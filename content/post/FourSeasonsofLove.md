@@ -13,9 +13,9 @@ a layer of target<br>
 He meets her in a winding path full of colourful leaves<br>
 <br>
 Winter comes with the warmness of love<br>
-when the snow make the world quiet<br>
+when the snowflakes make the world quiet<br>
 She runs on the field with happiness of tears<br>
-time  stops there like that mighty white<br>
+time  stops there striking that mighty white<br>
 He hugs her from the back wishing to protect<br>
 <br>
 Like elves usually choose spring to dance<br>
