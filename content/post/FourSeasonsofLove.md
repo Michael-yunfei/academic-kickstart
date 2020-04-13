@@ -19,7 +19,7 @@ time  stops there like that mighty white<br>
 He hugs her from the back wishing to protect<br>
 <br>
 Like elves usually choose spring to dance<br>
-Their lives begin to grow fractions<br>
+their lives begin to grow fractions<br>
 with all the power of our earth<br>
 So many deals are betrayed<br>
 when yelling covers up the singing of birds<br>
