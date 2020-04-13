@@ -14,15 +14,17 @@ Where I was walking in the spring<br>
 So true that the guitar is for a traveler<br>
 And the piano is for those home lovers<br>
 I realized this on that road<br>
-Where I carried my guitar but imagined I would play the piano for her<br>
+Where I carried my guitar<br>
+but imagined I would play the piano for her<br>
 <br>
 She is sitting in front of me with her leaves<br>
 I just pose to wait the time come<br>
 Outside my window, the birds are building their nest<br>
-I saw them picking the twigs and shifting around<br>
+I see them picking the twigs and shifting around<br>
 <br>
 
-Their wings are flattering each other for their subtle design of home<br>
+Their wings are flattering each other<br>
+for their subtle design of home<br>
 Sometimes I could watch them for the whole day<br>
 So often I wish I was that bird<br>
 Sing a song and build a nest for her<br>
@@ -35,7 +37,8 @@ But I am sure it is worth living with her<br>
 Her words are always short<br>
 My poems are never too long<br>
 Great beauties are asymmetric<br>
-As I write Chinese with my right hand and English with left<br>
+As I write Chinese with my right hand<br>
+and English with left<br>
 
 Will she love me back in the end<br>
 A wise man told me you do not ask<br>
