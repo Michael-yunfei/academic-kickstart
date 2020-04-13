@@ -32,7 +32,7 @@ He kneels down to kiss the land<br>
 Hope his love will not be banned<br>
 our great nature again is creating something new<br>
 <br>
-Beyond the end of word, she is sailing for another sun<br>
+Beyond the end of world, she is sailing for another sun<br>
 King Peter is on her boat<br>
 when the darkness has not been defined<br>
 meaning of light is yet crucified<br>
