@@ -21,12 +21,12 @@
 #   weight = 30
 
 [[main]]
-  name = "Notes"
-  url = "/notes/"
+  name = "Teaching"
+  url = "/teaching/"
   weight = 50
 
 [[main]]
-  name = "Replications"
+  name = "Data Scientist"
   url = "/replications/"
   weight = 50
 
