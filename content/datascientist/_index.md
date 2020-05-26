@@ -1,5 +1,5 @@
 +++
-title = "Collection of Teaching Materials"
+title = "Data Scientist: from Excel to R and Python"
 
 # View.
 #   1 = List

@@ -27,7 +27,7 @@
 
 [[main]]
   name = "Data Scientist"
-  url = "/replications/"
+  url = "/datascientist/"
   weight = 50
 
 [[main]]
