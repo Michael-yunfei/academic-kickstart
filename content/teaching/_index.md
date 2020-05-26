@@ -13,4 +13,4 @@ image = ""
 caption = ""
 +++
 
-In this section, you can find a bunch of learning materials that might be helpful for you. When I study [Neat]({{< ref "/notes/" >}})
+In this section, you can find a bunch of learning materials that might be helpful for you. When I study <a href="content/notes"> hello </a>
