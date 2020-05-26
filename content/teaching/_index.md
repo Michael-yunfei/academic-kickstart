@@ -1,5 +1,5 @@
 +++
-title = "Collection of Teaching Materials"
+title = "A Collection of Teaching Materials"
 
 # View.
 #   1 = List
@@ -12,3 +12,5 @@ view = 2
 image = ""
 caption = ""
 +++
+
+In this section, you can find a bunch of learning materials that might be helpful for you. When I study [Neat]({{< ref "/notes/" >}})
