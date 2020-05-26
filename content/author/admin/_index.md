@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Michael Wang"
+name = "Michael"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "A Student"
+role = "A Global Citizen"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -84,6 +84,6 @@ user_groups = ["Researchers", "Visitors"]
 #
 +++
 
-Currently, I am a student who is studying mathematics in UCD. I am expected to graduate with the Higher Diploma degree in September of 2020. After the mathematical studies, I will throw myself into the market. Except for living through being employed, I would like to read more.
+After working in a financial firm and become a Chartered Financial Analyst, I decided to pursue a degree in mathematics and get more trainning in computer programming. Since I am very curious and open-minded, I have also invested much of my time in reading and writing. This website was built for me to have some reflections on any subject I am interested in and share them with any one who carries the same passion. 
 
 You can find my [cv here](https://drive.google.com/open?id=1g-rm7YdzcSBivbNirdT1aIZecCMFrl8I) (Michael is my English name). Hope you will enjoy visiting this site.
