@@ -86,3 +86,15 @@ no changes added to commit
 ```
 
 Now, finally you can push again.
+
+Let's say suppose that you messed up your local file, and you have also committed and pushed those changes to the master branch. If you want to get your repository back to the certain stage you are happy with. All you need to do is
+
+* Go to your github and find the commit you want to get back to
+* reset your local file and push it again
+
+```python
+git reset --hard <commit>
+git push -f origin master  # -force, you can also do git push origin master
+```
+
+I found this [webstie](https://book.git-scm.com/book/en/v2) is very useful. 
