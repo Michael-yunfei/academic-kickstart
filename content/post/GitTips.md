@@ -97,4 +97,4 @@ git reset --hard <commit>
 git push -f origin master  # -force, you can also do git push origin master
 ```
 
-I found this [website](https://book.git-scm.com/book/en/v2) is very useful. 
+I found this [website](https://book.git-scm.com/book/en/v2) very useful. 
