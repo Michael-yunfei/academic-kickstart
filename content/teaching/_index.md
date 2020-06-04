@@ -13,4 +13,10 @@ image = ""
 caption = ""
 +++
 
-In this section, you can find a bunch of learning materials that might be helpful for you. When I study <a href="/notes/"> hello </a>
+In this section, you can find a bunch of learning materials that might be helpful for you. All my teachings focus on three areas:
+
+* Learn English
+* Mathematics
+* Finance
+
+ When I study <a href="/notes/"> hello </a>
