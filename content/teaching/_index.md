@@ -19,4 +19,10 @@ In this section, you can find a bunch of learning materials that might be helpfu
 * Mathematics
 * Finance
 
- When I study <a href="/notes/"> hello </a>
+# When I study <a href="/notes/"> hello </a>
+
+For people who want to improve their English, here is my suggestion:
+* Try to spend at least half an hour each day to immerse yourself in English contexts
+* I have prepared a lesson including three parts each week for you to practice your English: _pronunciation_, _grammar_, _short story_;
+* Follow my instructions or desgin your own learning materials based on resources I have provided, and study them consistently. In one year, I would say that your English would reach to a different level.
+* Keep your eyes on this [website](https://github.com/Michael-yunfei/LearnEnglish), where I would upload almost all the learning materials you need and share books, websites, or tips. 
