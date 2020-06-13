@@ -25,11 +25,17 @@ I also touched this 'outside of time' feelings in the novel, Crime and Punishmen
 When Sonya realized that Raskolnikov was the murder, her series of reactions were very like of tsunami. Here is how Dostoevsky described:
 
 <blockquote>
-As if she were unware of what she was doing, she jumped up; wringing her hands, she reached the middle of the room, but quickly returned and sat down next to him once agai, her shoulder almost touching his. All of a sudden, as if pierced, she shuddered, cried out, and threw herself on her knees before him, not really knowing why she did so.
-
+As if she were unware of what she was doing, she jumped up; wringing her hands, she reached the middle of the room, but quickly returned and sat down next to him once again, her shoulder almost touching his. All of a sudden, as if pierced, she shuddered, cried out, and threw herself on her knees before him, not really knowing why she did so.
+<br>
 ....
-
+<br>
 "You're so strange, Sonya-you hug me and kiss me when I just told you about that. You don't know what you're doing."
 "So you won't desert me, Sonya?" he asked, regarding her almost with hope.
 “No, no; never and nowhere!” Sonya cried, "I'll follow you, I'll follow you everywhere! Oh, Lord!... Oh, I'm so unhappy!...Why, oh, Why, oh, why didn't I know you before? Why didn't you come sooner? Oh, Lord!"
 </blockquote>
+
+At the end of this scene, Sonya conviced Raskolnikov that he should turn himself in. Here is what Sonya said:
+
+>"What do do?" She cried, jumping up from her places; her eyes, previously full of tears, suddenly began to flash. "Stand up!" (She grabbed him by the shoulder; he got up, looking at her almost in bewilderment) "Go at once, this very minute, and stand at the crossroads, bow down, and begin by kissing the ground that you've fouled; then bow down to the entire world, all four sides, and say aloud to everyone: 'I killed!' Then God will send you life once more. Will you go? Will you?" She asked him, trembling in her whole body.
+
+Of course, he did. He did this ceremony for his redemption. After that, he went to his sister place and told her everything, and later to his mother's place, and in the end turned himself in. When I read this, I could not stop my tears.
