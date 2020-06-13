@@ -44,7 +44,7 @@ This scene reminds me of a very ancient Chinese story. I would just rephrase sto
 
 In Song Dynasty, a noble family has raised a young lady who is fated to be loved by everyone. She was very attractive and educated with literature and arts. She has the same smile like Sonya and they say she could ease the hands of hard labour men, soothe the sin of unforgivable prisoners. From the day one when she turned adult, princes of king’s families, sons of big merchant families, scholars of top universities, vagrants of foreign lands, and of course, the poor poets, they all came to her house for pledging their love to her.
 
-Citizens in her hometown were worried that a war might be triggered due to so many people seeking for her love. Her parents were lost like their hands had been tightened. But, no single war was started and no man was not smiling when they came out of her house. But no war happened since she had been loved by almost everyone. She was so lovable as she also had the soul like Sonya had, which I summarised into a poem called *Sonya's Smile*
+Citizens in her hometown were worried that a war might be triggered due to so many people seeking for her love. Her parents were lost like their hands had been tightened. But, no single war was started and no man was not smiling when they came out of her house.  No war happened since she had been loved by almost everyone. She was so lovable as she had the soul like Sonya had, which I summarised into a poem called *Sonya's Smile*
 
 <p style="text-align:left">
 Before her smile<br>
@@ -85,4 +85,4 @@ The love I could only be in the gratitude of your trust<br>
 Stay or leave<br>
 Just be yourself and I shall have a kiss with your miss<br>
 
-This is my story after reading Crime and Punishment by *Fyodor Dostoevsky*.
+This is the story I made up after reading Crime and Punishment by *Fyodor Dostoevsky*.
