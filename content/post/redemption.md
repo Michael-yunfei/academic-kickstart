@@ -63,10 +63,9 @@ A tale was told until the legend is heard<br>
 I doubt the coming of any dwindled story<br>
 Until I saw Sonya's melting disarming smile<br>
 that whirled my soul in the middle of battle-field<br>
-<br>
 
 <p style="text-align:justify">
-Whispers of any kind of magic were passed ears by ears when people were wonder how she responded to so many marriage proposals. No one knew how she could manage to do it until one day a vagrant read a poetry she wrote:
+Whispers of any kind of magic were passed ears by ears when people were wonder how she responded to so many marriage proposals. No one knew how she could manage to do it until one day a vagrant read a poem she wrote:
 
 <p style="text-align:left">
 He who comes for my beauty<br>
@@ -83,9 +82,7 @@ Write to me in your journey of life<br>
 Sing to me in the middle of your night<br>
 The spirit I could never turn down<br>
 The love I could only be in the gratitude of your trust<br>
-<br>
 Stay or leave<br>
 Just be yourself and I shall have a kiss with your miss<br>
-<br>
 
 This is my story after reading Crime and Punishment by *Fyodor Dostoevsky*.
