@@ -25,5 +25,11 @@ I also touched this 'outside of time' feelings in the novel, Crime and Punishmen
 When Sonya realized that Raskolnikov was the murder, her series of reactions were very like of tsunami. Here is how Dostoevsky described:
 
 <blockquote>
-As if she were unware of what she was doing, she jumped up; wringing her hands, she reached the middle of the room, but quickly returned and sat down next to him once agai, her shoulder almost touching his. All of a sudden, as if pierced, she shuddered, cried out, and threw herself on her knees before him, not really knowing why she did so. 
+As if she were unware of what she was doing, she jumped up; wringing her hands, she reached the middle of the room, but quickly returned and sat down next to him once agai, her shoulder almost touching his. All of a sudden, as if pierced, she shuddered, cried out, and threw herself on her knees before him, not really knowing why she did so.
+
+....
+
+"You're so strange, Sonya-you hug me and kiss me when I just told you about that. You don't know what you're doing."
+"So you won't desert me, Sonya?" he asked, regarding her almost with hope.
+“No, no; never and nowhere!” Sonya cried, "I'll follow you, I'll follow you everywhere! Oh, Lord!... Oh, I'm so unhappy!...Why, oh, Why, oh, why didn't I know you before? Why didn't you come sooner? Oh, Lord!"
 </blockquote>
