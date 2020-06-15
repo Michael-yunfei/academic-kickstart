@@ -8,7 +8,7 @@ tags: ["Poetry", "Literature", "Russia"]
 <p style="text-align:left">
 I have never been to a place with harsh winter<br>
 But several time, I touched the power of nature<br>
-by imagining the vast of siberia and any living creatres there<br>
+by imagining the vast of Siberia and any living creatres there<br>
 <br>
 
 The moment I know she is from Moscow<br>
@@ -39,4 +39,5 @@ Ancient Greek would call her a muse<br>
 I just call her Alina<br>
 What her calls for is not the four seasons of  Vivaldi<br>
 but the concealing reflections on my life<br>
+in the stereotype of Russian winter<br>
 </p>
