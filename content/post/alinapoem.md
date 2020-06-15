@@ -1,5 +1,5 @@
 ---
-title: "No Title"
+title: "Her Magnet Voice"
 date: 2020-06-15T11:54:26+01:00
 draft: false
 tags: ["Poetry", "Literature", "Russia"]
