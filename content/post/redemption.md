@@ -2,6 +2,7 @@
 title: "Redemption: kiss the land"
 date: 2020-06-13T00:59:13+01:00
 draft: false
+tags: ["Poetry", "Literature", "Russia"]
 ---
 
 <div style="text-align:justify">
