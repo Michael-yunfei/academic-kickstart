@@ -12,7 +12,7 @@ by imagining the vast of Siberia and any living creatres there<br>
 <br>
 
 The moment I know she is from Moscow<br>
-My mind fles to the far north<br>
+My mind flies to the far north<br>
 I guess she knows the meaning of snow and vodka<br>
 That long lasting quiet and endurance<br>
 <br>
