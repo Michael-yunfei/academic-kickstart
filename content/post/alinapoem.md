@@ -29,6 +29,6 @@ The land nurtures not just abundant oil and mineral<br>
 but also her magnet vocie, which summons the sing of musician<br>
 <br>
 
-So ancient Greek would call her a muse<br>
+Ancient Greek would call her a muse<br>
 I just call her Alina<br>
 </p>
