@@ -11,8 +11,14 @@ But several time, I touched the power of nature<br>
 by imagining the vast of siberia and any living creatres there<br>
 <br>
 
-She is from Moscow<br>
+The moment I know she is from Moscow<br>
+My mind fles to the far north<br>
 I guess she knows the meaning of snow and vodka<br>
+That long lasting quiet and endurance<br>
+<br>
+
+I thought people from there must hold a tongue of submissive<br>
+As you cannot fight with Russian winter, neither did Napoleon<br>
 But when she speaks, her voice is full of sunshine<br>
 Like the golden color of ancient Egypt<br>
 <br>
@@ -20,7 +26,7 @@ Like the golden color of ancient Egypt<br>
 There is also an element of youth and agin in her mind<br>
 Bring me the beatufy of Neferneferuaten Nefertiti<br>
 Concie and Composed<br>
-Someone are born to be in the centre of heart<br>
+Like the one are born to be in the centre of heart<br>
 <br>
 
 Again, I am touched by the power of our nature<br>
@@ -31,4 +37,6 @@ but also her magnet vocie, which summons the sing of musician<br>
 
 Ancient Greek would call her a muse<br>
 I just call her Alina<br>
+What her calls for is not the four seasons of  Vivaldi<br>
+but the concealing reflections on my life<br>
 </p>
