@@ -84,6 +84,6 @@ user_groups = ["Researchers", "Visitors"]
 #
 +++
 
-After working in a financial firm and become a Chartered Financial Analyst, I decided to pursue a degree in mathematics and get more trainning in computer programming. Since I am very curious and open-minded, I have also invested much of my time in reading and writing. This website was built for me to have some reflections on any subject I am interested in and share them with any one who carries the same passion.
+Rigt now, I am working as a Machine Learning Specialist at SenseTime, which is an artificial intelligence software services company. My careers starts from working in a financial firm, later I become a Chartered Financial Analyst (CFA). Then I decided to pursue a degree in mathematics and get more trainning in computer programming. Since I am very curious and open-minded, I have also invested much of my time in reading and writing. This website was built for me to have some reflections on any subject I am interested in and share them with any one who carries the same passion.
 
 You can find my [cv here](https://drive.google.com/open?id=1g-rm7YdzcSBivbNirdT1aIZecCMFrl8I) (Michael is my English name). Hope you will enjoy visiting this site.
