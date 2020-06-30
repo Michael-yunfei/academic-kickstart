@@ -1,7 +1,7 @@
 ---
 title: "Her Magnet Voice"
 date: 2020-06-15T11:54:26+01:00
-draft: false
+draft: true
 tags: ["Poetry", "Literature", "Russia"]
 ---
 
